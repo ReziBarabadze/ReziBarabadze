@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/410692453565c8609eea9618bfafcfd200288a6dab6d8a23b8205251173b525a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
 <h1 align="center">Hi 👋, I'm Rezi Barabadze</h1>
-<h3 align="center">frontend developer from Georgia</h3>
+<h3 align="center">Frontend developer from Georgia</h3>
  <img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" width = "500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezibarabadze&label=Profile%20views&color=0e75b6&style=flat" alt="rezibarabadze" /> </p>
