@@ -1,6 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)]
+![MasterHead](https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
 <h1 align="center">Hi 👋, I'm Rezi Barabadze</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h3 align="center">A frontend developer from Georgia</h3>
 <img align='right' alt='Coding' width='400' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmcxa2I2MXBwc3l2b2wwdmgwcmRhMG45NG15Nm5tYTdwOGtjZWdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.webp'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezibarabadze&label=Profile%20views&color=0e75b6&style=flat" alt="rezibarabadze" /> </p>
